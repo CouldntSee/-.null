@@ -33,7 +33,10 @@ main
 ## Team
 
 **Lee Marc Macalanda**
-**[Partner's Name]**
+**Elijah Lee Dela Cruz**
+
+Computer Engineers - Universidad de Dagupan 
+
 
 ---
 
